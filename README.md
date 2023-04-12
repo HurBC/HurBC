@@ -5,11 +5,11 @@
 
 # Me quedo programando hasta las 5 de la mañana si es necesario
 #### Me gusta el cafe :coffee: :sparkles:
+#### Cinturon amarillo em Coding Dojo :tokyo_tower:
 ###### Al lado de este texto esta algo que me representa
 ###### Ayuda no e dormido en 3 dias :(
 
 
-------------
 ------------
 ------------
 # Mis Conocimientos
