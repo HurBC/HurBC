@@ -7,4 +7,4 @@
 | <img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/HTML5_Badge_512.png?raw=True' width="100px" height='100px'>  |<img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/CSS3_logo.svg.png?raw=True' width="100px" height='100px'>   | <img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/JavaScript-logo.png?raw=True' width="100px" height='100px'>  | <img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/Python-logo-notext.svg.png?raw=True' width="100px" height='100px'>  |
 |68% |80% |10% |30% |
 
-<img src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/tumblr_mtbppdZOrE1qze3hdo1_500.gif?raw=True'>
+<img style='width=110%, height=100%' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/tumblr_mtbppdZOrE1qze3hdo1_500.gif?raw=True'>
