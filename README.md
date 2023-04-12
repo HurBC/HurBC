@@ -1,4 +1,4 @@
-# HurBC
+# HurBC <img align='right' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/XwI7.gif?raw=True' width="100px" height='100px'>
 ## uwu
 #### Mis Conocimientos
 | HTML | CSS | JS | PYTHON |
@@ -12,3 +12,4 @@
 #### Al lado de este texto esta algo que me representa
 
 ###### Ayuda no e dormido en 3 dias :(
+
