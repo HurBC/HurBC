@@ -14,7 +14,14 @@
 ------------
 # Mis Conocimientos
 ------------
-| HTML | CSS | JS | PYTHON |
-| :------------: | :------------: | :------------: | :------------: |
-| <img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/HTML5_Badge_512.png?raw=True' width="200px" height='200px'>  |<img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/CSS3_logo.svg.png?raw=True' width="200px" height='200px'>   | <img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/JavaScript-logo.png?raw=True' width="200px" height='200px'>  | <img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/Python-logo-notext.svg.png?raw=True' width="200px" height='200px'>  |
-|68% |80% |10% |30% |
+| HTML | CSS | JS | PYTHON | MySQL |
+| :------------: | :------------: | :------------: | :------------: | :------------: |
+| <img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/HTML5_Badge_512.png?raw=True' width="200px" height='200px'>  |<img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/CSS3_logo.svg.png?raw=True' width="200px" height='200px'>   | <img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/JavaScript-logo.png?raw=True' width="200px" height='200px'>  | <img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/Python-logo-notext.svg.png?raw=True' width="200px" height='200px'>  | <img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png?raw=True' width="200px" height='200px'>  |
+|68% |80% |10% |30% | Solo Modelamiento |
+
+# Proyectos Creados
+
+| TimeTris |
+| :------------: |
+| <img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/Timetris%20logo.png?raw=True' width="200px" height='200px'>  |<img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/CSS3_logo.svg.png?raw=True' width="200px" height='200px'>   |
+| Iniciado el 09/05/2023 |
