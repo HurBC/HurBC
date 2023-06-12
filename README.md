@@ -12,7 +12,7 @@
 #
 #
 #
-<h1 align="center">Lenguajes con los que trabaje ☕☠️</h1>
+<h1 align="center">Lenguajes con los que trabajo ☕☠️</h1>
 
 <p align="center">
 <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML5-E54C21.svg?style=flat-square&logo=HTML5&logoColor=white"></a>
