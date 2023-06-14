@@ -12,7 +12,9 @@
 #
 #
 #
-<h1 align="center">Lenguajes con los que trabajo ☕☠️</h1>
+<img align="left" src="https://github.com/HurBC/HurBC/blob/main/ola/tumblr_n7sb7eI5zg1sfhzt8o1_500.gif" width="221.5" height="314">
+
+<h2 align="center">Lenguajes con los que trabajo ☕☠️</h2>
 
 <p align="center">
 <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML5-E54C21.svg?style=flat-square&logo=HTML5&logoColor=white"></a>
@@ -22,17 +24,21 @@
 <a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL-00758f.svg?style=flat-square&logo=SQLite&logoColor=white"></a>
 </p>
 
-<h1 align="center">Frameworks/Librerias 🤯✨</h1>
+<h2 align="center">Frameworks/Librerias 🤯✨</h2>
 
 <p align="center">
 <a href=""><img alt="P5.js" src="https://img.shields.io/badge/P5.JS-EB1F5E.svg?style=flat-square&logo=p5.js&logoColor=white"></a>
  </p>
 
-<h1 align="center">Agradecimientos a mis profesores 🤓🧔</h1>
+<h2 align="center">Agradecimientos a mis profesores 🤓🧔</h2>
 
 <p align="center">
 <a href="https://github.com/poncedavid"><img alt="David" src="https://img.shields.io/badge/poncedavid-D3D3D3.svg?style=flat-square&logo=GitHub&logoColor=black"></a> <a href="https://github.com/LuisFGG91"><img alt="Luis" src="https://img.shields.io/badge/LuisFGG91-526b56.svg?style=flat-square&logo=GitHub&logoColor=black"></a>
 </p>
+
+
+
+#
   
 <h1 align="center">Proyectos y con quien los hice ☕🤙</h1> 
 
