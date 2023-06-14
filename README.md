@@ -18,18 +18,20 @@
 <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML5-E54C21.svg?style=flat-square&logo=HTML5&logoColor=white"></a>
 <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-214CE5.svg?style=flat-square&logo=CSS3&logoColor=white"></a>
 <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7E018.svg?style=flat-square&logo=javascript&logoColor=black"></a>
-<a href=""><img alt="P5.js" src="https://img.shields.io/badge/P5.JS-EB1F5E.svg?style=flat-square&logo=p5.js&logoColor=white"></a>
 <a href=""><img alt="Python" src="https://img.shields.io/badge/Python-306998.svg?style=flat-square&logo=python&logoColor=white"></a>
 <a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL-00758f.svg?style=flat-square&logo=SQLite&logoColor=white"></a>
 </p>
 
+<h1 align="center">Frameworks/Librerias 🤯✨</h1>
 
-
+<p align="center">
+<a href=""><img alt="P5.js" src="https://img.shields.io/badge/P5.JS-EB1F5E.svg?style=flat-square&logo=p5.js&logoColor=white"></a>
+ </p>
 
 <h1 align="center">Agradecimientos a mis profesores 🤓🧔</h1>
 
 <p align="center">
-<a href="https://github.com/poncedavid"><img alt="David" src="https://img.shields.io/badge/poncedavid-D3D3D3.svg?style=flat-square&logo=GitHub&logoColor=black"></a> <a href="https://github.com/poncedavid"><img alt="Luis" src="https://img.shields.io/badge/LuisFGG91-526b56.svg?style=flat-square&logo=GitHub&logoColor=black"></a>
+<a href="https://github.com/poncedavid"><img alt="David" src="https://img.shields.io/badge/poncedavid-D3D3D3.svg?style=flat-square&logo=GitHub&logoColor=black"></a> <a href="https://github.com/LuisFGG91"><img alt="Luis" src="https://img.shields.io/badge/LuisFGG91-526b56.svg?style=flat-square&logo=GitHub&logoColor=black"></a>
 </p>
   
 <h1 align="center">Proyectos y con quien los hice ☕🤙</h1> 
