@@ -4,7 +4,7 @@
 <img align='right' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/tumblr_mtbppdZOrE1qze3hdo1_500.gif' width="500px" height='300px'>
 
 ## Me gusta el cafe ☕ ✨
-#### Uno de mis lenguajes favoritos es python junto a JS ❤️
+#### Uno de mis lenguajes favoritos es C# junto a JS ❤️
 #### Soy cinturon amarillo en Coding Dojo 🗼
 ###### Tengo 18 años 👵
 ###### Creador de TimeTris junto a [CyKl0P5](https://github.com/CyKl0P5) y [DiegoIS18](https://github.com/DiegoIS18)
@@ -20,16 +20,22 @@
 <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML5-E54C21.svg?style=flat-square&logo=HTML5&logoColor=white"></a>
 <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-214CE5.svg?style=flat-square&logo=CSS3&logoColor=white"></a>
 <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7E018.svg?style=flat-square&logo=javascript&logoColor=black"></a>
+<a href=""><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853d.svg?style=flat-square&logo=node.js&logoColor=white"></a>
 <a href=""><img alt="Python" src="https://img.shields.io/badge/Python-306998.svg?style=flat-square&logo=python&logoColor=white"></a>
 <a href=""><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?style=flat-square&logo=cs2&logoColor=white"></a>
-<a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL-00758f.svg?style=flat-square&logo=SQLite&logoColor=white"></a>
+<a href=""><img alt="XAML" src="https://img.shields.io/badge/XAML-01ADEF.svg?style=flat-square&logo=XAML&logoColor=white"></a>
+<a href=""><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758f.svg?style=flat-square&logo=MySQL&logoColor=white"></a>
+<a href=""><img alt="SQLServer" src="https://img.shields.io/badge/SQLServer-00758f.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white"></a>
 </p>
 
 <h2 align="center">Frameworks/Librerias 🤯✨</h2>
 
 <p align="center">
-<a href=""><img alt="P5.js" src="https://img.shields.io/badge/P5.JS-EB1F5E.svg?style=flat-square&logo=p5.js&logoColor=white"></a>
- </p>
+ <a href=""><img alt="P5.js" src="https://img.shields.io/badge/P5.JS-EB1F5E.svg?style=flat-square&logo=p5.js&logoColor=white"></a>
+ <a href=""><img alt="Flask" src="https://img.shields.io/badge/Flask-FFFFFF.svg?style=flat-square&logo=Flask&logoColor=black"></a>
+ <a href=""><img alt="REACT" src="https://img.shields.io/badge/React-222222.svg?style=flat-square&logo=REACT&logoColor=61DAFB"></a>
+ <a href=""><img alt=".NET" src="https://img.shields.io/badge/.NET-5027D5.svg?style=flat-square&logo=dotnet&logoColor=white"></a>
+</p>
 
 <h2 align="center">Agradecimientos a mis profesores 🤓🧔</h2>
 
