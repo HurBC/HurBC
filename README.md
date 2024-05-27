@@ -7,7 +7,7 @@
 #### Uno de mis lenguajes favoritos es C# junto a JS ❤️
 #### Soy cinturon amarillo en Coding Dojo 🗼
 ###### Tengo 19 años 👵
-###### Creador de TimeTris junto a [CyKl0P5](https://github.com/CyKl0P5) y [DiegoIS18](https://github.com/DiegoIS18)
+###### Creador de TimeTris junto a [CyKl0P5](https://github.com/CyKl0P5)
 
 #
 #
@@ -52,4 +52,4 @@
 | TimeTris |
 | :------------: |
 | <img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/Timetris%20logo.png?raw=True' width="200px" height='200px'>  |<img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/CSS3_logo.svg.png?raw=True' width="200px" height='200px'>   |
-| <a href="https://github.com/CyKl0P5"><img alt="CyKL0PS" src="https://img.shields.io/badge/CyKL0PS-1A54D4.svg?style=flat-square&logo=GitHub&logoColor=white"></a> <a href="https://github.com/DiegoIS18"><img alt="DiegoIS18" src="https://img.shields.io/badge/DiegoIS18-499b4a .svg?style=flat-square&logo=GitHub&logoColor=black"></a>  |
+| <a href="https://github.com/CyKl0P5"><img alt="CyKL0PS" src="https://img.shields.io/badge/CyKL0PS-1A54D4.svg?style=flat-square&logo=GitHub&logoColor=white"></a> |
