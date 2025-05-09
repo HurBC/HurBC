@@ -6,7 +6,7 @@
 ## Me gusta el cafe ☕ ✨
 #### Uno de mis lenguajes favoritos es C# junto a JS ❤️
 #### Soy cinturon amarillo en Coding Dojo 🗼
-###### Tengo 19 años 👵
+###### Tengo 20 años 👵
 ###### Creador de TimeTris junto a [CyKl0P5](https://github.com/CyKl0P5)
 
 #
