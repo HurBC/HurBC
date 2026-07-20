@@ -4,10 +4,10 @@
 <img align='right' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/tumblr_mtbppdZOrE1qze3hdo1_500.gif' width="500px" height='300px'>
 
 ## Me gusta el cafe ☕ ✨
-#### Uno de mis lenguajes favoritos es C# junto a JS ❤️
+#### Uno de mis lenguajes favoritos es C# junto a Rust ❤️
+### Odio Python
 #### Soy cinturon amarillo en Coding Dojo 🗼
-###### Tengo 20 años 👵
-###### Creador de TimeTris junto a [CyKl0P5](https://github.com/CyKl0P5)
+###### Tengo 21 años 👵
 
 #
 #
@@ -39,20 +39,3 @@
  <a href=""><img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"></a>
  <a href=""><img alt=".NET" src="https://img.shields.io/badge/.NET-5027D5.svg?style=flat-square&logo=dotnet&logoColor=white"></a>
 </p>
-
-<h2 align="center">Agradecimientos a mis profesores 🤓🧔</h2>
-
-<p align="center">
-<a href="https://github.com/poncedavid"><img alt="David" src="https://img.shields.io/badge/poncedavid-D3D3D3.svg?style=flat-square&logo=GitHub&logoColor=black"></a> <a href="https://github.com/LuisFGG91"><img alt="Luis" src="https://img.shields.io/badge/LuisFGG91-526b56.svg?style=flat-square&logo=GitHub&logoColor=black"></a>
-</p>
-
-
-
-#
-  
-<h1 align="center">Proyectos y con quien los hice ☕🤙</h1> 
-
-| TimeTris |
-| :------------: |
-| <img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/Timetris%20logo.png?raw=True' width="200px" height='200px'>  |<img align='center' src='https://github.com/FrancoC1214/FrancoC1214/blob/main/ola/CSS3_logo.svg.png?raw=True' width="200px" height='200px'>   |
-| <a href="https://github.com/CyKl0P5"><img alt="CyKL0PS" src="https://img.shields.io/badge/CyKL0PS-1A54D4.svg?style=flat-square&logo=GitHub&logoColor=white"></a> |
