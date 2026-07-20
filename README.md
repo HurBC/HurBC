@@ -6,7 +6,6 @@
 ## Me gusta el cafe ☕ ✨
 #### Uno de mis lenguajes favoritos es C# junto a Rust ❤️
 ### Odio Python
-#### Soy cinturon amarillo en Coding Dojo 🗼
 ###### Tengo 21 años 👵
 
 #
