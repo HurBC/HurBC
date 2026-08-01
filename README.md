@@ -38,3 +38,6 @@
  <a href=""><img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"></a>
  <a href=""><img alt=".NET" src="https://img.shields.io/badge/.NET-5027D5.svg?style=flat-square&logo=dotnet&logoColor=white"></a>
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HurBC&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
